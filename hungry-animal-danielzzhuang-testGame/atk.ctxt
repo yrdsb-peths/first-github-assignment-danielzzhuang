@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=atk
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ atk_c1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=identificationNum
+comment1.target=atk(int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ atk_c1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=point
+comment2.target=int\ atkSkill(int)
+comment3.params=skillNum
+comment3.target=void\ setSkillNum(int)
+comment4.params=
+comment4.target=void\ show()
+comment5.params=
+comment5.target=void\ hide()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
