@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CaveWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CaveWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ fixedD()
+comment11.params=
+comment11.target=void\ act()
+comment2.params=
+comment2.target=void\ hideAllDice()
+comment3.params=diceNeed
+comment3.target=void\ setUp_diceAndPoint(int)
+comment4.params=fightWithBoss
+comment4.target=void\ setUp_playerAndEnemy(boolean)
+comment5.params=fightWithBoss
+comment5.target=void\ setUp_HpAndHpBar(boolean)
+comment6.params=
+comment6.target=void\ setUp_skillOrder()
+comment7.params=fightWithBoss
+comment7.target=void\ dynamicHpAndHpBar(boolean)
+comment8.params=point
+comment8.target=void\ heal(int)
+comment9.params=
+comment9.target=void\ bossAtk()
+numComments=12
